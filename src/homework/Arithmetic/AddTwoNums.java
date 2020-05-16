@@ -20,6 +20,9 @@ public class AddTwoNums {
     }
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+
+        ListNode t1 = null;
+
         ListNode head = null;
 
         ListNode result = null;
