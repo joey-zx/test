@@ -5,462 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59f482e0-4443-450b-af15-e7bbb7dd34bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSETesting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/META-INF/JavaSETesting.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Observe.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Singleton/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Singleton/Singletonn$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Singleton/Singletonn$SingletonStatic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Singleton/Singletonn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Singleton/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/HashStatic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/IA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/JDFaceExam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/MyAr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/SE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/StringExer1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/StringInternStudyDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/StringDemo/myClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Thread/Basket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Thread/CallableDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Thread/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Thread/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Thread/ProducerAndConsumerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Thread/Seller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Thread/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Thread/Ticket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Thread/WoTou.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/Thread/mm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Arithmetic/AddTwoNums$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Arithmetic/AddTwoNums.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Assert/AsserDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Assert/JunitTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Base.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/CompareTest/CompareTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/CompareTest/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/CompareTest/StudentComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/DateDemo/DateTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/DateDemo/DateUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/DateDemo/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/DateDemo/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day10/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day10/PersonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day10/Play.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day10/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day3$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day5_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day5_exercise_sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day_07.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day_08.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day_09.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Day_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/DeleteFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/DynamicProxy/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/DynamicProxy/JdkProxySubject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/DynamicProxy/RealSubject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/DynamicProxy/Subject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/EqualsTest/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/EqualsTest/UserTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ExceptionExer/ExceptionTestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ExceptionExer/FileFormatException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ExceptionExer/PathNotExistException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FXX/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FXX/AAAA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FXX/TestFX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FXX/psvm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FaceExam/JDFaceExam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Farm/Cow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Farm/Farm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Farm/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FixedSizeStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Fruit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FruitExample/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FruitExample/Fruit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FruitExample/FruitTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FruitExample/Oriange.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Full/FullPL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/FullPermutation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Grade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Hannuota/Hannuota.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/HashMap/HashMapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/BufferInputStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/CalculateWords.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/CopyAnything.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/CopyFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/CopyFileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/FileOutputSteamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/HuntForLine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/Model/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/ObjectInputStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/ObjectOutStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/PropertiesDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/ReadLineInJava.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/SequenceStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/TransferIO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/IOTest/WriteToFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InnerClass/AA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InnerClass/CC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InnerClass/JtOuter$JjInner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InnerClass/JtOuter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InnerClass/Outer$Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InnerClass/Outer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InnerClass/Person$1Cooker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InnerClass/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Interfaces/AA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Interfaces/BB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Interfaces/InnerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InternetTest/Receive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InternetTest/Sender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InternetTest/UDPReceiveDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InternetTest/UDPThreadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InternetTest/UPDSenderDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InternetTest/UploadFileByTcpClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/InternetTest/UploadFileByTcpServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Jonathan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Lambda/Add.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Lambda/LambdaTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Lambda/LambdaTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/LambdaTest/Calculate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/LambdaTest/LmbdaTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/LambdaTest/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/LinkedStack$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/LinkedStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/ArrayLis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/ArrayLisTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/ArrayListDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/ArrayListDemo$ArrayListIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/ArrayListDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/ArrayStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/Iterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/LinkList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/LinkList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/LinkedListTmp$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/LinkedListTmp$LinkedListIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/LinkedListTmp$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/LinkedListTmp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/LinkedStack$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/LinkedStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/LinkedStackTmp$Entry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/LinkedStackTmp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/List.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/ListExer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/ListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/MinStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/MyList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ListDem/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/NumerException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Orange.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Person1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Proxy/Moveable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Proxy/Tank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Proxy/TankLogProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Proxy/TankTimeProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Proxy/TestProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ReflectionTest/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ReflectionTest/PersonClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ReflectionTest/Ref.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ReflectionTest/ReflectionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ReflectionTest/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/ReflectionTest/TestRefletion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Strategy/DisCountStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Strategy/Discount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Strategy/Hall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Strategy/TestStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstract/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstract/TestClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/AK47.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/AbstractFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/Broom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/DefaultFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/Food.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/MagicFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/MagicStick.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/MashRoom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/Vihecle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestAbstractFactory/Weapen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestChainOfRespnsibility/Filter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestChainOfRespnsibility/FilterChain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestChainOfRespnsibility/HtmlFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestChainOfRespnsibility/Request.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestChainOfRespnsibility/Response.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestChainOfRespnsibility/SensitiveFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestChainOfRespnsibility/StringProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestChainOfRespnsibility/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestFactory/AirPlane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestFactory/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestFactory/CarFactory$CarCreator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestFactory/CarFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestFactory/Moveable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestFactory/PlaneFactory$PlaneCreator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestFactory/PlaneFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestFactory/SimpleFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestFactory/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestFactory/Vechicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/ActionEvent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/ActionListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/Button.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/Dad.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/GrandFather.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/KeyBroad.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/MyActionListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/MyActionListener2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/MyButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/PropMrg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/TestMyButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/TestObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/WakeUpEvent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/WakeUpListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestObserve/myActionEvent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestPerson$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TestPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Tree/BalanceBinaryTree$Entry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Tree/BalanceBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Tree/BinaryTree$Entry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Tree/BinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Tree/BinaryTreeForBalance$Entry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Tree/BinaryTreeForBalance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/Tree/TestBTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TreeSet/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/TreeSet/TreeSetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/aa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/arrayTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/exec/Athlete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/exec/BaskballAhlete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/exec/EnglishSkill.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/exec/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/exec/PpAhlete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/foo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/jk1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/jk2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/myFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/staticInnerClass/A$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/staticInnerClass/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/staticInnerClass/InnerClass$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/staticInnerClass/InnerClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/homework/staticInnerClass/staticClassTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSETesting/resources/Observe.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Singletonn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringDemo/HashStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringDemo/IA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringDemo/JDFaceExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringDemo/MyAr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringDemo/StringExer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringDemo/StringInternStudyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringDemo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/ProducerAndConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/TestThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/WoTou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Arithmetic/AddTwoNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Assert/AsserDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Assert/JunitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/CompareTest/CompareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/CompareTest/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/CompareTest/StudentComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/DateDemo/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/DateDemo/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day10/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day10/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day10/Play.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day10/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day5_exercise_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Day_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/DeleteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/DynamicProxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/DynamicProxy/JdkProxySubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/DynamicProxy/RealSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/DynamicProxy/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/EqualsTest/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/EqualsTest/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ExceptionExer/ExceptionTestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ExceptionExer/FileFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ExceptionExer/PathNotExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FXX/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FXX/TestFX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FXX/psvm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FaceExam/JDFaceExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Farm/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Farm/Farm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Farm/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FruitExample/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FruitExample/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FruitExample/FruitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FruitExample/Oriange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Full/FullPL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FullPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Hannuota/Hannuota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/HashMap/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/BufferInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/CalculateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/CopyAnything.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/CopyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/CopyFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/FileOutputSteamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/HuntForLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/Model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/ObjectInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/ObjectOutStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/PropertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/ReadLineInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/SequenceStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/TransferIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/IOTest/WriteToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/InnerClass/JtOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/InnerClass/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/InnerClass/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Interfaces/AA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Interfaces/InnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/InternetTest/UDPReceiveDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/InternetTest/UDPThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/InternetTest/UPDSenderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/InternetTest/UploadFileByTcpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/InternetTest/UploadFileByTcpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lambda/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lambda/LambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/LambdaTest/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/LambdaTest/LmbdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/ArrayLis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/ArrayLisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/LinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/LinkedListTmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/LinkedStackTmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/ListExer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ListDem/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/NumerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Person1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Proxy/Moveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Proxy/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Proxy/TankLogProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Proxy/TankTimeProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Proxy/TestProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ReflectionTest/Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ReflectionTest/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ReflectionTest/TestRefletion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Strategy/DisCountStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Strategy/Discount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Strategy/Hall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Strategy/TestStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstract/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstract/TestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/AK47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/Broom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/DefaultFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/MagicFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/MagicStick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/MashRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/Vihecle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestAbstractFactory/Weapen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestChainOfRespnsibility/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestChainOfRespnsibility/FilterChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestChainOfRespnsibility/HtmlFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestChainOfRespnsibility/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestChainOfRespnsibility/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestChainOfRespnsibility/SensitiveFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestChainOfRespnsibility/StringProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestChainOfRespnsibility/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestFactory/AirPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestFactory/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestFactory/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestFactory/Moveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestFactory/PlaneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestFactory/SimpleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestFactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestFactory/Vechicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestObserve/ActionEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestObserve/ActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestObserve/MyButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestObserve/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestObserve/TestMyButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestObserve/TestObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestObserve/WakeUpEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestObserve/WakeUpListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestObserve/myActionEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TestObserve/myActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Tree/BalanceBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Tree/BinaryTreeForBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Tree/TestBTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TreeSet/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/TreeSet/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/arrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/exec/Athlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/exec/BaskballAhlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/exec/EnglishSkill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/exec/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/exec/PpAhlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/myFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/staticInnerClass/InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/staticInnerClass/staticClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Observe.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ticket.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/Day10/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Day10/Person.java" afterDir="false" />
     </list>
+    <list id="d8ddb21d-6a09-42b3-8896-0c50759d09a4" name="Revert &quot;Commit the AddTwoNums File two time&quot;" comment="Revert &quot;Commit the AddTwoNums File two time&quot;&#10;&#10;This reverts commit 6dd6c5e2" />
+    <list id="c2ff850d-dc6a-4c54-826b-d6294ae85b88" name="Revert &quot;Commit the AddTwoNums File&quot;" comment="Revert &quot;Commit the AddTwoNums File&quot;&#10;&#10;This reverts commit eb2d349f" />
+    <list id="a222352d-1ab7-4e00-905e-a7100de530de" name="Revert &quot;Commit the AddTwoNums File&quot;-2" comment="Revert &quot;Commit the AddTwoNums File&quot;&#10;&#10;This reverts commit eb2d349f" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -481,28 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/homework/foo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/homework/FullPermutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="36" />
-              <folding>
-                <element signature="e#762#763#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StringDemo/StringExer1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -543,11 +71,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/homework/Arithmetic/AddTwoNums.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="265">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/Observe.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/homework/Day10/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -608,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/homework/Strategy/DisCountStrategy.java" />
         <option value="$PROJECT_DIR$/src/homework/Strategy/TestStrategy.java" />
         <option value="$PROJECT_DIR$/src/homework/Strategy/Hall.java" />
         <option value="$PROJECT_DIR$/src/homework/Person1.java" />
@@ -659,6 +208,7 @@
         <option value="$PROJECT_DIR$/src/StringDemo/StringInternStudyDemo.java" />
         <option value="$PROJECT_DIR$/src/homework/ListDem/ListTest.java" />
         <option value="$PROJECT_DIR$/src/homework/Arithmetic/AddTwoNums.java" />
+        <option value="$PROJECT_DIR$/src/homework/Day10/Person.java" />
       </list>
     </option>
   </component>
@@ -680,7 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -693,11 +243,24 @@
               <item name="JavaSETesting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaSETesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSETesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSETesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSETesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="Day10" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -707,20 +270,21 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589602177107" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589620407821" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaSETesting1" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20922385" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\code\JavaSETesting\src\resources" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code" />
       <recent name="E:\code\JavaSETesting\src\homework\TestObserve" />
       <recent name="E:\code\JavaSETesting\src\homework" />
     </key>
@@ -917,8 +481,52 @@
       <workItem from="1589193511783" duration="1203000" />
       <workItem from="1589371588057" duration="2401000" />
       <workItem from="1589600394623" duration="77000" />
-      <workItem from="1589601842999" duration="335000" />
+      <workItem from="1589601842999" duration="4410000" />
+      <workItem from="1589619278921" duration="1120000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit the first Time">
+      <created>1589602247421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589602247421</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit the AddTwoNums File">
+      <created>1589602309107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589602309108</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit the AddTwoNums File two time">
+      <created>1589603046335</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589603046335</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First Time">
+      <created>1589603475290</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589603475290</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Second Time">
+      <created>1589603496478</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589603496478</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Third Time">
+      <created>1589603516080</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589603516080</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -954,7 +562,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="587051000" />
+    <option name="totallyTimeSpent" value="592246000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -967,8 +575,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.29051173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.29371002" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.21695095" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -977,17 +586,17 @@
       <window_info id="Favorites" order="6" sideWeight="0.50080776" side_tool="true" weight="0.21695095" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.4073673" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.4073673" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.3997833" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286334" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1036,6 +645,66 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit the first Time" />
+    <MESSAGE value="Commit the AddTwoNums File" />
+    <MESSAGE value="Commit the AddTwoNums File two time" />
+    <MESSAGE value="Revert &quot;Commit the AddTwoNums File&quot;&#10;&#10;This reverts commit eb2d349f" />
+    <MESSAGE value="First Time" />
+    <MESSAGE value="Second Time" />
+    <MESSAGE value="Third Time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Time" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1110,17 +779,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/homework/TestAbstractFactory/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/homework/TestAbstractFactory/MashRoom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1145,9 +803,6 @@
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/Observe.properties">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/homework/TestObserve/TestObserver.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1488,8 +1143,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/homework/Arithmetic/AddTwoNums.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="265">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/Observe.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework/Day10/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>

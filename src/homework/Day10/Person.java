@@ -5,6 +5,7 @@ import java.util.Objects;
 public class Person implements Play{
     private String name;
     private int age;
+    private String email;
     static int eyes = 2;
 
     static{
